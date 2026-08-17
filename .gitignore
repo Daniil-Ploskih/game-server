@@ -1,0 +1,12 @@
+cat > .gitignore << 'EOF'
+build/
+cmake-build-*/
+bin/
+*.o
+*.a
+*.exe
+*.log
+.vs/
+.vscode/
+.idea/
+EOF

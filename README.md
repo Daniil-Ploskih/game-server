@@ -11,7 +11,6 @@
 - **База данных:** PostgreSQL, libpqxx
 - **Сборка:** CMake, Conan 1.64
 - **Деплой:** Docker (multi-stage build), docker-compose
-- **Тестирование:** Google Test
 
 ## Возможности
 
